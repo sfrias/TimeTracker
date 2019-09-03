@@ -1,0 +1,7 @@
+Task_1;sfrias1@gmail.com;s;2019-09-03;19:30;HomeWork;0;0
+Task_2;jgirones@gmail.com;s;2019-09-03;09:10;Cowork;10;0
+Task_1;sfrias1@gmail.com;;2019-09-03;20:30;HomeWork;20;0
+Task_2;jgirones@gmail.com;;2019-09-03;11:35;Cowork;60;0
+Task_1;sfrias1@gmail.com;;2019-09-03;21:30;Office;70;0
+Task_1;sfrias1@gmail.com;e;2019-09-03;22:30;HomeWork;100;1
+Task_2;jgirones@gmail.com;e;2019-09-03;13:00;Cowork;100;1
