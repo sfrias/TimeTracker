@@ -1,0 +1,48 @@
+<form action="https://WebRcv--sfrias.repl.co" method="get">
+TRIGGER ACTIVITY STATES
+<div>
+<div>
+  <input list="task" name="mytask" autocomplete="on"
+  placeholder="Task" size="20" required>
+    <datalist id="task">
+      <option value="Task_1">Tarea 1</option>
+      <option value="Task_2">Tarea 2</option>
+      <option value="Task_3">Tarea 3</option>
+      <option value="Task_5">Tarea 4</option>
+      <option value="Task_6">Tarea 5</option>
+    </datalist>
+</div>
+</div>
+<div>
+  <input name="email" type="email" id="email" size="27"
+  maxlength=30 placeholder="Email" autocomplete="on"
+  autofocus required>
+</div>
+<div>
+  <input type="radio" name="hit" value="s"> Start
+  <input type="radio" name="hit" value="e"> End<br>
+  <input name="date" type="date">
+  <input name="time" type="time">
+</div>
+<div>
+  <input list="sites" name="misite"
+  placeholder="Site" size="27" required>
+    <datalist id="sites">
+      <option value="HomeWork"></option>
+      <option value="Cowork"></option>
+      <option value="OutWork"></option>
+      <option value="Office"></option>
+      <option value="Other"></option>
+    </datalist>
+</div>
+<div>
+  Progress: .
+  <input name="progress" type="range" step="10" min="0" 
+  max="100" value=0>
+</div>
+<div>
+  <input type="radio" name="opt" value="0" checked> Not update journal<br>
+  <input type="radio" name="opt" value="1"> Journal Update<br>
+  <button>Send </button>
+</div>
+</form>
