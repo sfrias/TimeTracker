@@ -13,7 +13,7 @@ Create a prototype to register this absolute values related to working time:<br>
 Other tests will be created too, as:<br>
   - Clean/process/tune localjournals<br>
   - First implementation for interprocess model between master/local journals.<br>
-<br>
+## Parts of prototype
 Parts of prototype are:<br>
   1.- [Client](https://github.com/sfrias/MorcillaConf-2019/tree/master/Proto1/WebRcv)
       as application that can send an update to register on User TaskJournal, or receive info from other User Task Journals<br>
