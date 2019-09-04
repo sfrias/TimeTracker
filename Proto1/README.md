@@ -1,10 +1,17 @@
 First fit was Task, user id, register working time(start and stop), Site of working time, and %TaskPerformed last update.<br>
 <br>
 Create a prototype to register this absolute values related to working time:<br>
-  1.- Start of Working Time in UTC TZ simplified(Zulu), coded as UTF-8.<br>
-  2.- Stop of Working Time in UTC TZ simplified(Zulu), coded as UTF-8.<br>
-  3.- Site code as enum of defined sites (default = 0 that's worker location).<br>
-  4.- Percentage of task performed on this update(Default= NULL, no changes).<br>
+  1.- Select user id, to start, mark progress or complete specified task.
+  2.- Select task of list that you were involved.<br>
+  3.- Mark if , if this register is a start or an end for specified task.<br>
+  4.- Mark Time in local time to convert after to UTC TZ simplified(Zulu), coded as UTF-8.<br>
+  5.- Site code as enum of defined sites.<br>
+  6.- Percentage of task performed on this local(Default= NULL, no changes).<br>
+  7.- Mark if this work register would be local or updated to workgroup.<br>  
+<br>
+Other tests will be created too, as:<br>
+  - Clean/process/tune localjournals<br>
+  - First implementation for interprocess model between master/local journals.<br>
 <br>
 Parts of prototype are:<br>
   1.- [Client](https://github.com/sfrias/MorcillaConf-2019/tree/master/Proto1/WebRcv)
