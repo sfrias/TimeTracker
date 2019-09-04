@@ -1,6 +1,5 @@
 First fit was Task, user id, register working time(start and stop), Site of working time, and %TaskPerformed last update.<br>
 <br>
-<br>
 Create a prototype to register this absolute values related to working time:<br>
   1.- Start of Working Time in UTC TZ simplified(Zulu), coded as UTF-8.<br>
   2.- Stop of Working Time in UTC TZ simplified(Zulu), coded as UTF-8.<br>
