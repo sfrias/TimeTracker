@@ -1,4 +1,4 @@
-First fit was register working time(start and stop), Site of working time, and %TaskPerformed last update.<br>
+First fit was Task, user id, register working time(start and stop), Site of working time, and %TaskPerformed last update.<br>
 <br>
 <br>
 Create a prototype to register this absolute values related to working time:<br>
