@@ -1,7 +1,7 @@
 # MorcillaConf-2019
 Repo for challenge:  develop a web or mobile application to solve a specific problem<br>
 
-![Static Presentation Link is here](https://docs.google.com/presentation/d/1c-rnm2OVwRFYygNTmbHhzJtmFWahDaoW9BY1IjVZTgg/edit?usp=sharing)
+[Static Presentation Link is here](https://docs.google.com/presentation/d/1c-rnm2OVwRFYygNTmbHhzJtmFWahDaoW9BY1IjVZTgg/edit?usp=sharing)
 ## Trigger
 Create a register for working time(start and stop), Site of working time, and %TaskPerformed last update.<br>
 <br>
